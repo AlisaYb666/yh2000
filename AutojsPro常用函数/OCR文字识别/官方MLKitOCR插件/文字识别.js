@@ -19,7 +19,10 @@ for (let i = 0; i < 5; i++) {
 }
 
 ocr.release();
-
+/*插件下载地址
+https://wwub.lanzoue.com/iReuy0koio3a
+密码:1dh6
+*/
 来源: Auto.js Pro博客
 文章作者: autojs.org
 文章链接: https://blog.autojs.org/2022/09/04/mlkit-ocr-plugin/
